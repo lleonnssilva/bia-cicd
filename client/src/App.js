@@ -100,7 +100,7 @@ function App() {
                   onToggle={toggleReminder}
                 />
               ) : (
-                "Build Pipeline EC2 - Nenhuma tarefa até agora"
+                "Build Pipeline EC2 - Nenhuma tarefa até agora!"
               )}
             </>
           )}
